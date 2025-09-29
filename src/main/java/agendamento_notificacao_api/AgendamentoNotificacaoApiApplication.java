@@ -1,4 +1,4 @@
-package agendamento_notificacao_api.agendamento_notificacao_api;
+package agendamento_notificacao_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
